@@ -1,6 +1,6 @@
 {
   "name": "fajnapaka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to jest fajna paka",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mwakulinski/elp-lesson-4/issues"
   },
-  "homepage": "https://github.com/mwakulinski/elp-lesson-4#readme"
+  "homepage": "https://github.com/mwakulinski/elp-lesson-4#readme",
+  "dependencies": {
+    "fajnapaka": "^1.0.0"
+  }
 }
