@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwakulinski/elp-lesson-4#readme",
   "dependencies": {
-    "fajnapaka": "^1.0.0"
+    "fajnapaka": "^1.0.2"
   }
 }
