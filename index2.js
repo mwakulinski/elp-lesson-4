@@ -1,3 +1,3 @@
-const example = require("fajnapaka");
+const fajnapaka = require("fajnapaka");
 
-console.log(example.example());
+console.log(fajnapaka.example(5));
